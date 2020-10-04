@@ -1,4 +1,4 @@
-# Celo hellow world
+# Celo hello world
 
 ## Functionalities implemented :
 - creating account
@@ -7,7 +7,7 @@
 - send funds to other CELO address
 
 ## Test
-- clone the repe
+- clone the repo
 - cd to repo
 - npm install
 - node helloCello.js
